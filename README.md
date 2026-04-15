@@ -60,3 +60,4 @@ To prevent accidental data loss, this tool is hardcoded to operate **ONLY** with
 ## ⚠️ Disclaimer
 
 **This software is for EDUCATIONAL USE ONLY.** Do not modify the source code to target system directories. Creating malicious software to cause damage is a federal crime. The author assumes no liability for misuse.
+Çrş 15 Nis 2026 22:15:18 +03
